@@ -1,0 +1,12 @@
+
+
+
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+#nyc, #sun, #sunrise, #bali{
+    width: 300PX;
+    height: 300px;
+    }

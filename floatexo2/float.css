@@ -1,0 +1,48 @@
+.parallax {
+
+    background-image: url("sun.jpg");
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+
+}
+
+h1{
+    background-color: orangered;
+    box-sizing: border-box;
+    color: white;
+}
+
+
+h2, h3, h4{
+    background-color: orangered;
+    border-style: ridge;
+    border-color: crimson;
+    color: white;
+    padding: 12px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.baliimg{
+    height: 100px;
+    width: 100px;
+    float: left; 
+padding-right: 12px;
+
+}
+
+
+.florenceimg{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+
+.nyc{
+    height: 100px;
+    width: 100px;
+    float: left; 
+    padding-right: 12px;
+}
